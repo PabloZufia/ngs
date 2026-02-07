@@ -1,1 +1,1 @@
-# Node.js: Getting Started with Node and Git
+# Node.js: Getting Started with Node.js and Git
